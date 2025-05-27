@@ -4,7 +4,7 @@
 **Lab Type:** Local VM-based  
 **Platform:** T-Pot + Kali Linux  
 **Network:** Host-Only (Isolated)  
-**Analyst:** Michael White  
+**Analyst:** Michael W.  
 **Date:** May 25th, 2025
 
 ---
