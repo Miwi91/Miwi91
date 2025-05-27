@@ -65,7 +65,7 @@ A second VM (**Kali Linux**) is used to scan, identify, and connect to fake serv
   ```
 - Viewed login attempts and command inputs
 
-![Cowrie logs](Cyber-Security-labs/cowrie-lab/images/VirtualBox_tpot_25_05_2025_22_43_42.png)
+![Cowrie logs](images/VirtualBox_tpot_25_05_2025_22_43_42.png)
 
 ---
 
