@@ -5,7 +5,7 @@
 **Platform:** T-Pot + Kali Linux  
 **Network:** Host-Only (Isolated)  
 **Analyst:** Michael White  
-**Date:** ** May 25th,2025
+**Date:** May 25th, 2025
 
 ---
 
@@ -37,7 +37,7 @@ A second VM (**Kali Linux**) is used to scan, identify, and connect to fake serv
 - Discovered Cowrie exposing common ports (e.g., `22`, `23`)
 - Noted services were fake and designed to lure attackers
 
-![nmap output](images/VirtualBox_kali test_25_05_2025_22_27_14.png)
+![nmap output](images/V2.png)
 
 ---
 
@@ -49,7 +49,7 @@ A second VM (**Kali Linux**) is used to scan, identify, and connect to fake serv
 - Repeated login attempts with common credentials to simulate brute-force
 - Observed successful "logins" into a fake shell session
 
-![SSH login](images/VirtualBox_kali test_25_05_2025_22_28_53.png)
+![SSH login](images/V1.png)
 
 ---
 
@@ -65,14 +65,14 @@ A second VM (**Kali Linux**) is used to scan, identify, and connect to fake serv
   ```
 - Viewed login attempts and command inputs
 
-![Cowrie logs](images/VirtualBox_tpot_25_05_2025_22_43_42.png)
+![Cowrie logs](images/V3.png)
 
 ---
 
 ## Step 5: Extra screenshots
 
-![Image](images/Screenshot from 2025-05-25 22-52-22.png)
-![Image](images/Screenshot from 2025-05-25 22-53-55.png)
+![Image](images/Ss1.png)
+![Image](images/Ss2.png)
 
 ---
 
